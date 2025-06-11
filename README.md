@@ -1,3 +1,6 @@
+# Modern Movie App
+This app uses themoviedb api so that users can discover new movies.
+
 # React + Vite
 
 This template provides a minimal setup to get React working in Vite with HMR and some ESLint rules.
